@@ -11,5 +11,7 @@ The goal of this assignment is to develop a simple neural network architecture c
 
 ### code file:
 
--   python file containig whole workings including neural network is uploaded herewith undet the name of **project_1.ipynb**
--   it is availabel in the file format of Jupyter Source File (.ipynb)
+-   python file containig whole workings including neural network is uploaded herewith under the name of **project_1.ipynb**
+-   python file containig optimization workings of the finalized neural network is uploaded herewith under the name of **project_model_optimization.ipynb**
+-   both files are available in the file format of Jupyter Source File (.ipynb)
+-   **.h5** file of the optimized model is also uploaded
